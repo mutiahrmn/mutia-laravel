@@ -31,6 +31,10 @@ Route::get('/product', function () {
     return view('product', compact('page_title', 'products'));
 });
 
+Route::get('tambah', function () {
+    return view('tambah');
+});
+
 
 // Route::get('about', function () {
 //     return view('about');

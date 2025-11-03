@@ -40,7 +40,7 @@
  <div class="container" style="margin-top: 80px;">
         <div class="d-flex justify-content-between align-items-center">
             <h2>Halaman Produk</h2>
-            <a href="/produk/tambah" class="btn btn-primary">
+            <a href="/tambah" class="btn btn-success">
                 Tambah Produk
             </a>
         </div>
